@@ -1,4 +1,4 @@
-# HII, I am Prathamesh 👋
+
 
 This is Static site for our Smart India Hackthon Project.
 
